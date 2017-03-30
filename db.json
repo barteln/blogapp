@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "First Post",
+      "body": "Sample text for body!",
+      "date": "3/28/2017, 2:36:06 PM",
+      "id": 1
+    },
+    {
+      "title": "2nd Post",
+      "body": "This is body text!",
+      "date": "3/29/2017, 11:54:15 AM",
+      "id": 2
+    },
+    {
+      "title": "Fourth Post",
+      "body": "Body text",
+      "date": "3/29/2017, 11:53:55 AM",
+      "id": 4
+    }
+  ]
+}
